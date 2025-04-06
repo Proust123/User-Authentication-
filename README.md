@@ -1,0 +1,1 @@
+A full-stack user authentication system built with React, Tailwind CSS, and Redux Toolkit on the frontend, and Node.js, Express, and MongoDB on the backend. Features include user registration, login, protected routes using middleware and JSON Web Tokens (JWT), and role-based access control where admins have exclusive access to restricted pages.
